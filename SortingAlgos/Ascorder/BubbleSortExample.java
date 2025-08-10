@@ -1,4 +1,4 @@
-package SortingAlgos;
+package SortingAlgos.Ascorder;
 
 public class BubbleSortExample {
 

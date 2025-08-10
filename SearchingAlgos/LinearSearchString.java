@@ -1,3 +1,4 @@
+package SearchingAlgos;
 public class LinearSearchString {
     static int linearSearch(String[] str,String key)
     {
