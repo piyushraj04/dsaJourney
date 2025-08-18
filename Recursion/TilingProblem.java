@@ -16,8 +16,7 @@ public class TilingProblem {
         return fnm1 + fnm2;
     }
     public static void main(String[] args) {
-        System.out.println(tilingProblem(4));
-        
+        System.out.println(tilingProblem(5));
     }
     
 }
