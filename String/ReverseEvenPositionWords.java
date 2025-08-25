@@ -20,8 +20,7 @@ public class ReverseEvenPositionWords {
     }
     public static void main(String[] args) {
         String s = "hello hi bye how are you";
-        reverseEvenPositionWords(s);
-        
-    }
-    
+        reverseEvenPositionWords(s);  
+        System.out.println(reverse("Hello"));
+    } 
 }
