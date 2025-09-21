@@ -1,4 +1,4 @@
-public class ternary{
+public class TernaryEx{
     public static void main(String [] args)
     {
         int  a = 5;
