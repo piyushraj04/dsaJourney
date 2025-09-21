@@ -24,5 +24,6 @@ public class SwitchEx {
             default:System.out.println("Invalid choice enter");
         }
 
+        sc.close();
     }
 }
